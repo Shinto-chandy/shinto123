@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinto123
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning MCA
+- 👀 I’m interested in codng.
+- 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on IT field.
 - 📫 How to reach me: e-mail
 
