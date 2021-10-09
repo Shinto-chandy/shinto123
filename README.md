@@ -3,3 +3,6 @@
 - 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on IT field.
 - 📫 How to reach me: e-mail
+
+
+Thank You :)
